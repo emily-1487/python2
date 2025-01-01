@@ -1,12 +1,1 @@
-"點我"):
-#     st.balloons()
-# col1, col2 = st.columns(2)
-# col1.button("按鈕1", key="btn1")
-# col2.button("按鈕2", key="btn2")
-# col1, col2 = st.columns([1, 2])
-# col1.button("按鈕1", key="btn3")
-# col2.button("按鈕2", key="btn4")
-# col1, col2, col3 = st.columns([1, 2, 3])
-# col1.button("按鈕1", key="btn5")
-# col2.button("按鈕2", key="btn6")
-# col1.button("按鈕3", key="btn7")
+streamlit
